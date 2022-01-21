@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-color: lightgray;
+}
+
+.Cards{
+    text-align: center;
+    padding: 1%;
+    flex-direction: row;
+    display: inline-block;
+    margin-top: 5%;
+}
+Nav{
+ 
+  font-size: large;
+}
+
+
+
+
+
+
